@@ -20,6 +20,7 @@ __Rellenado de Regiones:__ Rellena regiones en la imagen binaria para facilitar 
 
 ### Operaciones Morfológicas:
 __Erosión:__ Reduce el tamaño de los objetos en la imagen binaria.
+
 __Dilatación:__ Aumenta el tamaño de los objetos en la imagen binaria.
 
 ### Visualización de Resultados:
