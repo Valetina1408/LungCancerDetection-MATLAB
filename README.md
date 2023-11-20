@@ -11,8 +11,11 @@ La interfaz muestra la imagen cargada y proporciona la capacidad de navegar entr
 
 ### Operaciones de Procesamiento de Imágenes:
 Conversión a Escala de Grises: Transforma la imagen a escala de grises para simplificar el análisis.
+
 Binarización: Convierte la imagen en una imagen binaria para resaltar regiones de interés.
+
 Limpieza de Bordes: Elimina los bordes no deseados de la imagen binaria.
+
 Rellenado de Regiones: Rellena regiones en la imagen binaria para facilitar el análisis.
 
 ### Operaciones Morfológicas:
