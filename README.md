@@ -10,17 +10,17 @@ Utiliza la función uigetfile para permitir al usuario cargar imágenes médicas
 La interfaz muestra la imagen cargada y proporciona la capacidad de navegar entre diferentes imágenes.
 
 ### Operaciones de Procesamiento de Imágenes:
-Conversión a Escala de Grises: Transforma la imagen a escala de grises para simplificar el análisis.
+__Conversión a Escala de Grises:__ Transforma la imagen a escala de grises para simplificar el análisis.
 
-Binarización: Convierte la imagen en una imagen binaria para resaltar regiones de interés.
+__Binarización:__ Convierte la imagen en una imagen binaria para resaltar regiones de interés.
 
-Limpieza de Bordes: Elimina los bordes no deseados de la imagen binaria.
+__Limpieza de Bordes:__ Elimina los bordes no deseados de la imagen binaria.
 
-Rellenado de Regiones: Rellena regiones en la imagen binaria para facilitar el análisis.
+__Rellenado de Regiones:__ Rellena regiones en la imagen binaria para facilitar el análisis.
 
 ### Operaciones Morfológicas:
-Erosión: Reduce el tamaño de los objetos en la imagen binaria.
-Dilatación: Aumenta el tamaño de los objetos en la imagen binaria.
+__Erosión:__ Reduce el tamaño de los objetos en la imagen binaria.
+__Dilatación:__ Aumenta el tamaño de los objetos en la imagen binaria.
 
 ### Visualización de Resultados:
 Muestra visualmente los resultados de las operaciones de procesamiento de imágenes.
